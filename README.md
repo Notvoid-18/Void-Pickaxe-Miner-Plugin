@@ -30,7 +30,14 @@ Designed with performance in mind — no particles, no unnecessary effects, and 
 - 💎 Safe for survival servers
 
 ---
-
 ## 💬 Commands
 
-### 🛠 Admin Commands
+### 🛠 Admin
+- `/void help` → Show help
+- `/void give pickaxe <player>` → Give pickaxe
+- `/void reload` → Reload plugin
+- `/void creator` → Creator info
+
+### 👤 Player
+- `/void creator` → Creator info
+- `/void donate` → Support Discord
